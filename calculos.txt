@@ -1,0 +1,6 @@
+Operaciones:
+
+Suma-> 5 + 4 = 9
+Resta-> 5 - 4 = 1
+Multiplicaion-> 5 * 4 = 20
+Division-> 5 / 4 = 1,25
